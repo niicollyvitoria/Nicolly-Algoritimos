@@ -1,0 +1,34 @@
+body {
+    background: url('1_fyzj2nTRPHhdV8vL2EG8uQ.png');
+    background-color: #aaf5fa;
+    color: #e2e2e2;
+    font-family: "fantasy;", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 900px;
+    margin: 0;
+}
+
+button {
+    background-color: #aaf5fa;
+    color: #e2e2e2;
+    font-family: "fantasy;", sans-serif;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 90%;
+}
