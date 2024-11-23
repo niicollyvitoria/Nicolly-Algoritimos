@@ -1,6 +1,6 @@
 body {
     background: url('1_fyzj2nTRPHhdV8vL2EG8uQ.png');
-    background-color: #aaf5fa;
+    background-color: #000000;
     color: #e2e2e2;
     font-family: "fantasy;", sans-serif;
     display: flex;
@@ -11,7 +11,7 @@ body {
 }
 
 button {
-    background-color: #aaf5fa;
+    background-color: #000000
     color: #e2e2e2;
     font-family: "fantasy;", sans-serif;
 }
